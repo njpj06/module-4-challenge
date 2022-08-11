@@ -10,6 +10,6 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-<img width="1173" alt="Screen Shot 2022-04-10 at 10 23 36 PM" src="https://user-images.githubusercontent.com/99852993/162654548-c057467e-5d0c-4a59-b3da-0cae660ea952.png">
-<img width="1440" alt="Screen Shot 2022-04-10 at 10 23 08 PM" src="https://user-images.githubusercontent.com/99852993/162654561-7dccafaf-6cac-4c69-a202-2d3dad8a577e.png">
-<img width="1440" alt="Screen Shot 2022-04-10 at 10 21 52 PM" src="https://user-images.githubusercontent.com/99852993/162654574-9acc4165-a215-452b-a0a0-7ed580ca6d18.png">
+<img width="1440" alt="Screen Shot 2022-08-11 at 5 49 47 PM" src="https://user-images.githubusercontent.com/108623643/184249433-b7434d92-a220-4215-9662-baac2f73dc75.png">
+<img width="1440" alt="Screen Shot 2022-08-11 at 5 49 54 PM" src="https://user-images.githubusercontent.com/108623643/184249435-84d67b44-df8c-444d-8a00-99a1047cdc84.png">
+<img width="1440" alt="Screen Shot 2022-08-11 at 5 49 39 PM" src="https://user-images.githubusercontent.com/108623643/184249437-c14c2816-5315-47bf-80c2-a25f93656d88.png">
